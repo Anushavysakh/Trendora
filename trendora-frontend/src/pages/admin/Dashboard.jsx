@@ -89,7 +89,7 @@ function Dashboard() {
       );
 
       console.log(
-        "Users count:",
+        "User count:",
         users.length
       );
 
